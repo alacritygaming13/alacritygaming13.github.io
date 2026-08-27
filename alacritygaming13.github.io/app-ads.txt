@@ -1,2 +1,1 @@
-alacritygaming13.github.io/app-ads.txt
-google.com, pub-8266694472827182, DIRECT, f08c47fec0942fa0
+alacritygaming13.github.io
